@@ -18,5 +18,10 @@ This imports the pyttsx3 module, which is used for text-to-speech conversion in 
 <br>
 1. Install the required dependencies (if not already installed): pip install pyttsx3 <br>
 2. Run the application: python robo_speaker.py <br>
+Upon running the application, you will be greeted with a welcome message and prompted to input text.
+<br>
+Enter the text you want to be spoken aloud. Press Enter to confirm.
+<br>
+To exit the application, simply input '!' and press Enter.
 
 
